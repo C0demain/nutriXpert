@@ -1,0 +1,9 @@
+[submodule "nutriXpert-frontend"]
+	path = nutriXpert-frontend
+	url = https://github.com/C0demain/nutriXpert-frontend.git
+[submodule "nutriXpert-backend"]
+	path = nutriXpert-backend
+	url = https://github.com/C0demain/nutriXpert-backend.git
+[submodule "nutriXpert-agent"]
+	path = nutriXpert-agent
+	url = https://github.com/C0demain/nutriXpert-agent.git
