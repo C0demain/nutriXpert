@@ -1,20 +1,13 @@
 <img width="1500" height="250" alt="nutrixpert-banner (1)" src="https://github.com/user-attachments/assets/00bba542-eaaa-418a-88d0-a956762a2a60" />
+<h1 align="center">
+Projeto API - 6º Semestre
+</h1>
 
-## 🎯 Explicação do Projeto
+## 🎯 Descrição do Desafio
 O desafio consiste no desenvolvimento de um agente conversacional inteligente, baseado no modelo LLM medGemma, com foco em fornecer suporte personalizado na área de nutrição. O sistema deverá interagir com o usuário de forma natural, coletando informações relevantes sobre saúde, hábitos alimentares, restriçoes e objetivos nutricionais.
 
-## 🧩 Estrutura do Projeto
-
-O projeto foi dividido em **três repositórios independentes**, refletindo a arquitetura desacoplada da solução:
-
-| Repositório       | Descrição                                                                 |
-|-------------------|---------------------------------------------------------------------------|
-| `nutriXpert-agent`    | Agente conversacional em Python, utilizando modelo LLM medGemma. Responsável pela inteligência do sistema.|
-| `nutriXpert-backend`  | API REST construída em Java com Spring Boot, garantindo segurança, persistência de dados e integração com o agente.|
-| `nutriXpert-frontend` | Interface web desenvolvida em Vue.js (SPA), voltada para interação do usuário e visualização dos resultados.|
 
 ## 📋 Backlog do Produto
-<details><summary>Ver Mais</summary>
 
 <div align="center">
   
@@ -43,14 +36,14 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 |**21**|Baixa|Como paciente, quero receber insights automáticos (ex.: “você reduziu o consumo de açúcar nesta semana”), para ter clareza sobre meus avanços.|20|3|
 |**22**|Baixa|Como paciente, quero anexar meu exame de sangue, para que o agente me dê dicas de como melhorar os resultados com mudanças na alimentação e hábitos de saúde.|80|3|
 
-</details>  
   
 </div>
 
 ## 📑 Backlog da Sprint
-<details><summary>Sprint 1</summary>
+<details><summary>Sprint 1 (08.09 | 28.09)</summary>
 
 <div align="center">
+<br> Documentação | YouTube <br><br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Status
 | -------- |-------- |-------- |-------- |-------- |-------- | 
@@ -64,9 +57,10 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 |**8**|Baixa|Como paciente, quero um menu de navegação fácil e intuitivo, para melhorar a minha experiência como usuário.|20|1|
 
 </details>  
-<details><summary>Sprint 2</summary>
+<details><summary>Sprint 2 (06.10 | 26.10)</summary>
 
 <div align="center">
+<br> Documentação | YouTube <br><br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Status
 | -------- |-------- |-------- |-------- |-------- |-------- | 
@@ -79,9 +73,10 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 |**15**|Baixa|Como nutricionista, quero poder adicionar anotações personalizadas ao perfil de cada paciente, para registrar observações clínicas e recomendações complementares.|30|2|
 </details>  
 
-<details><summary>Sprint 3</summary>
+<details><summary>Sprint 3 (03.11 | 20.11)</summary>
 
 <div align="center">
+<br> Documentação | YouTube <br><br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Status
 | -------- |-------- |-------- |-------- |-------- |-------- | 
@@ -97,6 +92,10 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
   
 </div>
 
+## 🗓️ Planejamento de Entregas
+<img width="1920" height="1080" alt="nutriXpert-planejamento" src="https://github.com/user-attachments/assets/467379a7-2b4c-44db-a17a-39e49e3c2de1" />
+
+
 ## 🧰 Tecnologias Utilizadas
 ### 🚹 Agent
 - Python
@@ -109,6 +108,32 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 
 ### 💻 Frontend
 - Vue.JS
+
+### 🧪 Testes e Outros
+- Postman (testes de API)
+- Notion (documentação)
+- Jira (users stories, sprints e tarefas)
+- Figma (design das telas)
+- Canva (materiais visuais)
+
+## 🧩 Estrutura do Projeto
+
+O projeto foi dividido em **três repositórios independentes**, refletindo a arquitetura desacoplada da solução:
+
+| Repositório       | Descrição                                                                 |
+|-------------------|---------------------------------------------------------------------------|
+| `nutriXpert-agent`    | Agente conversacional em Python, utilizando modelo LLM medGemma. Responsável pela inteligência do sistema.|
+| `nutriXpert-backend`  | API REST construída em Java com Spring Boot, garantindo segurança, persistência de dados e integração com o agente.|
+| `nutriXpert-frontend` | Interface web desenvolvida em Vue.js (SPA), voltada para interação do usuário e visualização dos resultados.|
+
+## 📂 Pasta de Documentação
+<details><summary>Ver Mais</summary><br>
+- Checklist de DoR e DoD <br>
+- DoR e DoD <br>
+- Estratégia de Branch <br>
+- Manual de Usuário <br>
+- Manual de Instalação
+</details>
 
 ## 👨‍💻 Integrantes da Equipe
 
