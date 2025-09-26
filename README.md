@@ -7,34 +7,10 @@ Projeto API - 6º Semestre
 O desafio consiste no desenvolvimento de um agente conversacional inteligente, baseado no modelo LLM medGemma, com foco em fornecer suporte personalizado na área de nutrição. O sistema deverá interagir com o usuário de forma natural, coletando informações relevantes sobre saúde, hábitos alimentares, restriçoes e objetivos nutricionais.
 
 
-## 📋 Backlog do Produto
+## [📋 Backlog do Produto](https://www.notion.so/2781ce22d5fc802d8c7fd7eefaaef32c?v=2781ce22d5fc80bb9450000cbd6332ac)
 
 <div align="center">
   
-|Rank|Prioridade|User Story|Estimativa|Sprint
-| -------- |-------- |-------- |-------- |-------- |
-|**1**|Alta|Como paciente, quero preencher dados básicos de saúde (altura, peso, hábitos e doenças), para que o agente me ofereça recomendações personalizadas.|90|1|
-|**2**|Alta|Como paciente, desejo sanar minhas dúvidas sobre nutrição, para me alimentar melhor e para que me auxilie a desenvolver uma dieta que se adeque ao meu perfil.|80|1|
-|**3**|Média|Como novo paciente, quero criar uma conta na plataforma, para interagir com o agente e ter acesso as minhas informações.|50|1|
-|**4**|Média|Como paciente, quero efetuar o login na plataforma de forma segura, para acessar meu perfil.|40|1|
-|**5**|Alta|Como paciente, quero que meu histórico de conversas seja salvo, para que eu possa retomar o atendimento em qualquer momento.|70|1|
-|**6**|Média|Como paciente, quero corrigir meus dados, para que o agente não use informações desatualizadas.|40|1|
-|**7**|Baixa|Como paciente, quero conversar com o agente em uma interface semelhante ao WhatsApp, para que eu tenha uma experiência familiar e simples.|30|1|
-|**8**|Baixa|Como paciente, quero um menu de navegação fácil e intuitivo, para melhorar a minha experiência como usuário.|20|1|
-|**9**|Alta|Como paciente, desejo inserir meus objetivos nutricionais, para receber dietas personalizadas ou dicas de alimentação.|80|2|
-|**10**|Alta|Como paciente, quero registrar minhas refeições para que o sistema calcule minha ingestão diária.|80|2|
-|**11**|Alta|Como nutricionista, quero um acesso diferente do usuário padrão, para acompanhamento dos pacientes.|60|2|
-|**12**|Alta|Como nutricionista, quero revisar respostas do agente para que a confiabilidade seja garantida.|50|2|
-|**13**|Média|Como paciente, quero avaliar a qualidade das respostas (com estrelas ou feedback) para que o sistema melhore continuamente.|40|2|
-|**14**|Baixa|Como paciente, quero que o agente sugira combinações de refeições (almoço + jantar balanceados), para ter opções práticas no dia a dia.|40|2|
-|**15**|Baixa|Como nutricionista, quero poder adicionar anotações personalizadas ao perfil de cada paciente, para registrar observações clínicas e recomendações complementares.|30|2|
-|**16**|Alta|Como paciente, quero que o agente estime a distribuição de macronutrientes (carboidratos, proteínas, gorduras) a partir dos meus registros, para avaliar se minha dieta está equilibrada.|90|3|
-|**17**|Alta|Como paciente, quero poder comparar diferentes planos gerados, para escolher aquele que mais se adapta à minha rotina.|50|3|
-|**18**|Alta|Como paciente, quero um resumo semanal de progresso, para que eu veja minha evolução em ciclos curtos.|50|3|
-|**19**|Média|Como paciente, quero exportar meu progresso em PDF com gráficos e análises, para compartilhar com meu nutricionista.|30|3|
-|**20**|Baixa|Como paciente, quero receber uma introdução interativa (tour da plataforma), para entender como usar as funcionalidades principais desde o primeiro acesso.|60|3|
-|**21**|Baixa|Como paciente, quero receber insights automáticos (ex.: “você reduziu o consumo de açúcar nesta semana”), para ter clareza sobre meus avanços.|20|3|
-|**22**|Baixa|Como paciente, quero anexar meu exame de sangue, para que o agente me dê dicas de como melhorar os resultados com mudanças na alimentação e hábitos de saúde.|80|3|
 
   
 </div>
@@ -43,7 +19,7 @@ O desafio consiste no desenvolvimento de um agente conversacional inteligente, b
 <details><summary>Sprint 1 (08.09 | 28.09)</summary>
 
 <div align="center">
-<br> Documentação | YouTube <br><br>
+<br> YouTube <br><br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Status
 | -------- |-------- |-------- |-------- |-------- |-------- | 
@@ -60,7 +36,7 @@ O desafio consiste no desenvolvimento de um agente conversacional inteligente, b
 <details><summary>Sprint 2 (06.10 | 26.10)</summary>
 
 <div align="center">
-<br> Documentação | YouTube <br><br>
+<br> YouTube <br><br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Status
 | -------- |-------- |-------- |-------- |-------- |-------- | 
@@ -76,7 +52,7 @@ O desafio consiste no desenvolvimento de um agente conversacional inteligente, b
 <details><summary>Sprint 3 (03.11 | 20.11)</summary>
 
 <div align="center">
-<br> Documentação | YouTube <br><br>
+<br>YouTube <br><br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Status
 | -------- |-------- |-------- |-------- |-------- |-------- | 
@@ -100,6 +76,8 @@ O desafio consiste no desenvolvimento de um agente conversacional inteligente, b
 ### 🚹 Agent
 - Python
 - Chroma DB
+- Google ADK
+- Fast API
 
 ### 🧱 Backend
 - Java
@@ -127,13 +105,12 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 | `nutriXpert-frontend` | Interface web desenvolvida em Vue.js (SPA), voltada para interação do usuário e visualização dos resultados.|
 
 ## 📂 Pasta de Documentação
-<details><summary>Ver Mais</summary><br>
-- Checklist de DoR e DoD <br>
-- DoR e DoD <br>
-- Estratégia de Branch <br>
-- Manual de Usuário <br>
-- Manual de Instalação
-</details>
+- [Checklist de DoR](https://www.notion.so/Checklist-DoR-27a1ce22d5fc80ca9e13fe281037575c?pvs=25) <br>
+- [Checklist de DoD](https://www.notion.so/Checklist-DoD-27a1ce22d5fc802f96b3e6f8e8aa1ef4?pvs=25)  <br>
+- [Estratégia de Branch](https://www.notion.so/Estrat-gia-de-Branch-27a1ce22d5fc80d7819ad670461cf79a?pvs=25)  <br>
+- [Manual de Instalação Backend](https://github.com/C0demain/nutriXpert-backend/tree/dev)  <br>
+- [Manual de Instalação Agent](https://github.com/C0demain/nutriXpert-agent/tree/dev)  <br>
+- [Manual de Instalação Frontend](https://github.com/C0demain/nutriXpert-frontend/tree/dev) 
 
 ## 👨‍💻 Integrantes da Equipe
 
