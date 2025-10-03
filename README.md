@@ -97,6 +97,34 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
 <img width="1920" height="1080" alt="nutriXpert-planejamento" src="https://github.com/user-attachments/assets/467379a7-2b4c-44db-a17a-39e49e3c2de1" />
 
 
+## 🚩 DoR - Definition of Ready
+- Critérios de aceitação bem definidos e mensuráveis
+- Estimativa de esforço realizada pela equipe
+- Compreensão validada com todos os membros do time
+- Modelagem do Banco de Dados
+- Banco de Dados Vetorizado do Cliente
+- Diagrama de Rotas
+- Design no Figma
+
+## 🧩 DoD - Definition of Done
+- Segue padrões de codificação e boas práticas do time
+- Testes unitários implementados e passando
+- Testes funcionais/aceitação executados e aprovados
+- Documentação de código atualizada (comentários, README, API docs)
+- Manual ou guia de usuário atualizado
+- Configurações de ambiente e variáveis documentadas
+- Todos os bugs críticos identificados resolvidos
+
+  
+## 🗓️ Cronograma de Sprints
+
+| Sprint      | Período       | Documentação       |
+|------------|---------------|------------------|
+| 🚀 SPRINT 1 | 08.09 - 28.09 | [Sprint 1 Docs](./documentacao/sprint-1/README.md) |
+| 🚀 SPRINT 2 | 06.10 - 26.10 | [Sprint 2 Docs](./documentacao/sprint-2/README.md) |
+| 🚀 SPRINT 3 | 03.11 - 23.11 | [Sprint 3 Docs](./documentacao/sprint-3/README.md) |
+
+
 ## 🧰 Tecnologias Utilizadas
 ### 🚹 Agent
 - Python
@@ -128,6 +156,14 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 | `nutriXpert-agent`    | Agente conversacional em Python, utilizando modelo LLM medGemma. Responsável pela inteligência do sistema.|
 | `nutriXpert-backend`  | API REST construída em Java com Spring Boot, garantindo segurança, persistência de dados e integração com o agente.|
 | `nutriXpert-frontend` | Interface web desenvolvida em Vue.js (SPA), voltada para interação do usuário e visualização dos resultados.|
+
+
+## 🎯 Estratégia de Branch
+**Branches principais:**
+
+- `main`→ versão estável e pronta para produção.
+- `dev` → branch de integração, recebe funcionalidades testadas.
+- `feat/<nome-da-funcionalidade>` → para cada User Story ou tarefa específica.
 
 
 ## 👨‍💻 Integrantes da Equipe
