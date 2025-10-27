@@ -10,7 +10,8 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
 ## Sprint 2 (06.10 | 26.10)
 
 <div align="center">
-<br> YouTube <br><br>
+
+  <a href="https://drive.google.com/file/d/1yrMEe427b8veCaSCSqBffnHH3a21yh0p/view">Vídeo da Aplicação</a><br> <br>
   
 
 | Rank   | Prioridade | User Story                                                                                                                                                                                           | Estimativa | Sprint | Meta da Sprint |
