@@ -78,17 +78,13 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
 | **9**  | Alta       | Como paciente, desejo inserir meus objetivos nutricionais, para receber dietas personalizadas ou dicas de alimentação.                                                                               | 80         | 2      | ✅              |
 | **10** | Alta       | Como paciente, quero registrar minhas refeições para que o sistema calcule minha ingestão diária.                                                                                                    | 80         | 2      | ✅              |
 | **11** | Alta       | Como nutricionista, quero um acesso diferente do usuário padrão, para acompanhamento dos pacientes.                                                                                                  | 60         | 2      | ✅              |
-| **12** | Alta       | Como nutricionista, quero revisar respostas do agente para que a confiabilidade seja garantida.                                                                                                      | 50         | 2      | ✅              |
-| **13** | Média      | Como paciente, quero avaliar a qualidade das respostas (com estrelas ou feedback) para que o sistema melhore continuamente.                                                                          | 40         | 2      | ❌              |
-| **14** | Baixa      | Como paciente, quero que o agente sugira combinações de refeições (almoço + jantar balanceados), para ter opções práticas no dia a dia.                                                              | 40         | 2      | ❌              |
-| **15** | Baixa      | Como nutricionista, quero poder adicionar anotações personalizadas ao perfil de cada paciente, para registrar observações clínicas e recomendações complementares.                                   | 30         | 2      | ❌              |
-| **16** | Alta       | Como usuário, quero ter uma página de login e cadastro mais intuitiva e visualmente agradável para facilitar meu acesso e registro na plataforma.                                                    | 50         | 3      | ✅              |
-| **17** | Alta       | Como paciente, quero preencher minha anamnese em um formulário claro e estruturado conforme orientações da nutricionista para garantir que minhas informações de saúde sejam coletadas corretamente. | 70         | 3      | ✅              |
-| **18** | Média      | Como usuário, quero visualizar as conversas com identificação clara de quem enviou as mensagens e horários bem formatados para compreender facilmente o histórico dos atendimentos.                  | 50         | 3      | ✅              |
-| **19** | Média      | Como usuário, quero que toda a interface siga um padrão visual consistente para ter uma experiência mais agradável e profissional ao navegar pela plataforma.                                        | 40         | 3      | ✅              |
-| **20** | Alta       | Como desenvolvedor backend, quero adicionar novos campos da anamnese ao banco de dados para armazenar todas as informações clínicas relevantes enviadas pelo paciente.                               | 60         | 3      | ✅              |
-| **21** | Alta       | Como usuário, quero que o agente de IA utilize o modelo MedGemma para receber respostas mais assertivas e confiáveis relacionadas à saúde e nutrição.                                                | 80         | 3      | ✅              |
-| **22** | Alta       | Como administrador do sistema, quero treinar o modelo MedGemma com dados revisados por profissionais de saúde para aprimorar a precisão e relevância das respostas fornecidas.                       | 90         | 3      | ✅              |
+| **12** | Alta       | Como usuário, quero ter uma página de login e cadastro mais intuitiva e visualmente agradável para facilitar meu acesso e registro na plataforma.                                                    | 50         | 2      | ✅              |
+| **13** | Alta       | Como paciente, quero preencher minha anamnese em um formulário claro e estruturado conforme orientações da nutricionista para garantir que minhas informações de saúde sejam coletadas corretamente. | 70         | 2      | ✅              |
+| **14** | Média      | Como usuário, quero visualizar as conversas com identificação clara de quem enviou as mensagens e horários bem formatados para compreender facilmente o histórico dos atendimentos.                  | 50         | 2      | ❌             |
+| **15** | Média      | Como usuário, quero que toda a interface siga um padrão visual consistente para ter uma experiência mais agradável e profissional ao navegar pela plataforma.                                        | 40         | 2      | ❌            |
+| **16** | Alta       | Como desenvolvedor backend, quero adicionar novos campos da anamnese ao banco de dados para armazenar todas as informações clínicas relevantes enviadas pelo paciente.                               | 60         | 2      | ❌              |
+| **17** | Média      | Como paciente, quero avaliar a qualidade das respostas (com estrelas ou feedback) para que o sistema melhore continuamente.                                                                          | 40         | 2      | ❌              |
+| **18** | Baixa      | Como paciente, quero que o agente sugira combinações de refeições (almoço + jantar balanceados), para ter opções práticas no dia a dia.                                                              | 40         | 2      | ❌              |
 </details>  
 
 <details><summary>Sprint 3 (03.11 | 20.11)</summary>
@@ -181,6 +177,11 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 - `dev` → branch de integração, recebe funcionalidades testadas.
 - `feat/<nome-da-funcionalidade>` → para cada User Story ou tarefa específica.
 
+## 💻 Workflow Agents
+<img width="2607" height="849" alt="workflow-agents" src="https://github.com/user-attachments/assets/6fcb2d44-109f-4c8d-9c2a-9f692616a3c8" />
+
+## 💻 Workflow Sistema
+<img width="2607" height="866" alt="wokflow-sistema" src="https://github.com/user-attachments/assets/d07a87f3-5b6a-419c-b299-eac0a5151507" />
 
 ## 👨‍💻 Integrantes da Equipe
 
