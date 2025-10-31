@@ -14,13 +14,16 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Meta da Sprint|
 | -------- |-------- |-------- |-------- |-------- |-------- | 
-|**16**|Alta|Como paciente, quero que o agente estime a distribuição de macronutrientes (carboidratos, proteínas, gorduras) a partir dos meus registros, para avaliar se minha dieta está equilibrada.|90|3|✅| 
-|**17**|Alta|Como paciente, quero poder comparar diferentes planos gerados, para escolher aquele que mais se adapta à minha rotina.|50|3|✅| 
-|**18**|Alta|Como paciente, quero um resumo semanal de progresso, para que eu veja minha evolução em ciclos curtos.|50|3|✅| 
-|**19**|Média|Como paciente, quero exportar meu progresso em PDF com gráficos e análises, para compartilhar com meu nutricionista.|30|3|✅| 
-|**20**|Baixa|Como paciente, quero receber uma introdução interativa (tour da plataforma), para entender como usar as funcionalidades principais desde o primeiro acesso.|60|3|✅| 
-|**21**|Baixa|Como paciente, quero receber insights automáticos (ex.: “você reduziu o consumo de açúcar nesta semana”), para ter clareza sobre meus avanços.|20|3|❌|
-|**22**|Baixa|Como paciente, quero anexar meu exame de sangue, para que o agente me dê dicas de como melhorar os resultados com mudanças na alimentação e hábitos de saúde.|80|3|❌|
+|**19**|Alta|Como paciente, quero preencher a anamnese diretamente no chat, para envio de informações no primeiro contato e para atualizações.|90|3|✅| 
+|**20**|Alta|Como paciente, quero que o agente reformule a minha dieta, de acordo com a ingestão de alimentos ao longo da minha semana.|80|3|✅| 
+|**21**|Alta|Como paciente, quero que o agente gere uma dieta completa com os alimentos que devo comer no meu dia ou ao longo da semana.|80|3|✅| 
+|**22**|Alta|Como paciente, quero poder comparar diferentes planos gerados, para escolher aquele que mais se adapta à minha rotina.|70|3|✅| 
+|**23**|Média|Como paciente, quero que o agente estime a distribuição de macronutrientes (carboidratos, proteínas, gorduras) a partir dos meus registros, para avaliar se minha dieta está equilibrada.|70|3|✅| 
+|**24**|Média|Como paciente, quero um resumo semanal de progresso, para que eu veja minha evolução em ciclos curtos.|60|3|✅| 
+|**25**|Média|Como paciente, quero receber insights automáticos (ex.: “você reduziu o consumo de açúcar nesta semana”), para ter clareza sobre meus avanços.|40|3|✅|
+|**26**|Baixa|Como paciente, quero anexar uma foto da minha refeição e quero que o agente calcule automaticamente a quantidade de macronutrientes presentes no prato.|90|3|❌| 
+|**27**|Baixa|Como paciente, quero exportar meu progresso em PDF com gráficos e análises, para compartilhar com meu nutricionista.|30|3|❌| 
+
 </div>
 
 ## 🚩 DoR - Definition of Ready
