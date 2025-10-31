@@ -106,7 +106,8 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
   
 
 ## 🗓️ Planejamento de Entregas
-<img width="1920" height="1080" alt="nutriXpert-planejamento" src="https://github.com/user-attachments/assets/467379a7-2b4c-44db-a17a-39e49e3c2de1" />
+![nutriXpert-planejamento](https://github.com/user-attachments/assets/1f6f67c0-ff87-4736-8340-a21576b54fee)
+
 
 
 ## 🚩 DoR - Definition of Ready
