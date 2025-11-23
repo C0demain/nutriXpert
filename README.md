@@ -139,14 +139,6 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
 | 🚀 SPRINT 2 | 06.10 - 26.10 | [Sprint 2 Docs](./documentacao/sprint-2/README.md) |
 | 🚀 SPRINT 3 | 03.11 - 23.11 | [Sprint 3 Docs](./documentacao/sprint-3/README.md) |
 
-## 📘 Manual do Usuário
-
-Para garantir a melhor experiência de interação com os agentes e entender o fluxo do sistema, disponibilizamos um guia prático.
-
-| Documento             | Descrição                                                                                | Link                                                         |
-| --------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **Manual NutriXpert** | Explicação detalhada sobre os agentes, comandos, anamnese e interpretação das respostas. | [📖 Acessar Manual](./documentacao/manual_usuario/README.md) |
-
 ## 🧰 Tecnologias Utilizadas
 
 ### 🚹 Agent
@@ -199,6 +191,22 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 ## 💻 Workflow Sistema
 
 <img width="2607" height="866" alt="wokflow-sistema" src="https://github.com/user-attachments/assets/d07a87f3-5b6a-419c-b299-eac0a5151507" />
+
+## 📘 Manual do Usuário
+
+Para garantir a melhor experiência de interação com os agentes e entender o fluxo do sistema, disponibilizamos um guia prático.
+
+| Documento             | Descrição                                                                                | Link                                                         |
+| --------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Manual NutriXpert** | Explicação detalhada sobre os agentes, comandos, anamnese e interpretação das respostas. | [📖 Acessar Manual](./documentacao/manual_usuario/README.md) |
+
+## 💻 Manual de Instalação
+Guia completo para instalar, configurar e executar todo o ambiente do nutriXpert de forma rápida e padronizada.
+
+| Documento                | Descrição                                                                                  | Link                                                                |
+| ------------------------ | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Manual de Instalação** | Passo a passo completo para instalar, configurar e executar os módulos do nutriXpert.      | [📦 Acessar Manual](./documentacao/manual_instalacao/README.md)     |
+
 
 ## 👨‍💻 Integrantes da Equipe
 
