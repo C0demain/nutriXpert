@@ -90,7 +90,7 @@ O desafio é desenvolver um agente conversacional inteligente, baseado no modelo
 <details><summary>Sprint 3 (03.11 | 20.11)</summary>
 
 <div align="center">
-<br>YouTube <br><br>
+<a href="https://www.youtube.com/watch?v=6N9nwSJFzzg">Vídeo da Aplicação</a><br> <br>
   
 |Rank|Prioridade|User Story|Estimativa|Sprint|Meta da Sprint|
 | -------- |-------- |-------- |-------- |-------- |-------- | 
