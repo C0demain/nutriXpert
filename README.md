@@ -5,7 +5,7 @@ Projeto API - 6º Semestre
 
 ## 🎯 Descrição do Desafio
 
-O desafio é desenvolver um agente conversacional inteligente, baseado no modelo LLM medGemma, para oferecer suporte personalizado em nutrição. Ele deverá interagir de forma natural com o usuário, coletando informações sobre saúde, hábitos alimentares, restrições e objetivos nutricionais. Nesse processo, busca também superar as principais dores do cliente, como a dificuldade em manter consistência alimentar, a falta de orientação prática e personalizada, a sobrecarga de informações contraditórias sobre nutrição e a insegurança em relação às escolhas feitas no dia a dia.
+O desafio é desenvolver um agente conversacional inteligente, baseado no modelo Gemini, para oferecer suporte personalizado em nutrição. Ele deverá interagir de forma natural com o usuário, coletando informações sobre saúde, hábitos alimentares, restrições e objetivos nutricionais. Nesse processo, busca também superar as principais dores do cliente, como a dificuldade em manter consistência alimentar, a falta de orientação prática e personalizada, a sobrecarga de informações contraditórias sobre nutrição e a insegurança em relação às escolhas feitas no dia a dia.
 
 ## 📋 Backlog do Produto
 
@@ -172,7 +172,7 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 
 | Repositório           | Descrição                                                                                                           |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| `nutriXpert-agent`    | Agente conversacional em Python, utilizando modelo LLM medGemma. Responsável pela inteligência do sistema.          |
+| `nutriXpert-agent`    | Agente conversacional em Python, utilizando modelo Gemini. Responsável pela inteligência do sistema.          |
 | `nutriXpert-backend`  | API REST construída em Java com Spring Boot, garantindo segurança, persistência de dados e integração com o agente. |
 | `nutriXpert-frontend` | Interface web desenvolvida em Vue.js (SPA), voltada para interação do usuário e visualização dos resultados.        |
 
