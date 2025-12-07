@@ -184,10 +184,6 @@ O projeto foi dividido em **três repositórios independentes**, refletindo a ar
 - `dev` → branch de integração, recebe funcionalidades testadas.
 - `feat/<nome-da-funcionalidade>` → para cada User Story ou tarefa específica.
 
-## 💻 Workflow Agents
-
-<img width="2607" height="849" alt="workflow-agents" src="https://github.com/user-attachments/assets/6fcb2d44-109f-4c8d-9c2a-9f692616a3c8" />
-
 ## 💻 Workflow Sistema
 
 <img width="2607" height="866" alt="wokflow-sistema" src="https://github.com/user-attachments/assets/d07a87f3-5b6a-419c-b299-eac0a5151507" />
